@@ -15,28 +15,28 @@ TagManager:
   - 
   - 
   - 
+  - OwnAvatarLight
+  - Margie
+  - 
+  - 
+  - NavMesh
+  - AvatarLight
+  - 
+  - 
+  - 
+  - 
+  - Hologram
+  - 
+  - 
+  - 
+  - 
+  - MRE Default
   - 
   - 
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Interactables
   m_SortingLayers:
   - name: Default
     uniqueID: 0
