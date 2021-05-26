@@ -12,15 +12,15 @@
 
 2. Clone the AudioTest project repository to your local disk:
     - either
-	- click the Code button
-	- select Download Zip from the pulldown menu
-	- unzip the zip file
+        - click the Code button
+        - select Download Zip from the pulldown menu
+        - unzip the zip file
     - or
-	- sign up for a GitHub account (and tell Gene your GitHub UserID)
-	- install Github Desktop on your computer
-	- login to Github
-	- click the Code button
-	- select Open with GitHub Desktop from the pulldown menu.
+        - sign up for a GitHub account (and tell Gene your GitHub UserID)
+        - install Github Desktop on your computer
+        - login to Github
+        - click the Code button
+        - select Open with GitHub Desktop from the pulldown menu.
 
 3. Download the 'Library' folder for this project
     - download from https://drive.google.com/drive/folders/1ceBL0IerwLaevvzjRg9h7Vw9V8x2UVyy?usp=sharing
