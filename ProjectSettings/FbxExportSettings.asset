@@ -4,7 +4,7 @@
         "m_EditorHideFlags": 0,
         "m_Name": "",
         "m_EditorClassIdentifier": "Unity.Formats.Fbx.Editor:UnityEditor.Formats.Fbx.Exporter:ExportSettings",
-        "ExportOutsideProject": true,
+        "ExportOutsideProject": false,
         "Verbose": false,
         "launchAfterInstallation": true,
         "HideSendToUnityMenu": true,
@@ -16,21 +16,21 @@
             "."
         ],
         "fbxSavePaths": [
-            "/Users/gene/Documents/TiltBrush/Playa",
-            "."
+            ".",
+            "/Users/gene/Documents/TiltBrush/Playa"
         ],
         "selectedFbxPath": 0,
         "selectedPrefabPath": 0,
         "dccOptionNames": [],
         "dccOptionPaths": [],
         "exportModelSettingsSerialize": {
-            "exportFormat": 0,
+            "exportFormat": 1,
             "animatedSkinnedMesh": false,
             "mayaCompatibleNaming": false,
             "include": 0,
             "lodLevel": 0,
             "objectPosition": 0,
-            "exportUnrendered": true
+            "exportUnrendered": false
         },
         "convertToPrefabSettingsSerialize": {
             "exportFormat": 0,
