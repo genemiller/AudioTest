@@ -6,6 +6,7 @@
 [Aa]rchive/
 [Dd]iagnostics/
 [Jj]ail/
+[Ll]og/
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
@@ -40,5 +41,5 @@ sysinfo.txt
 *.unitypackage
 *.zip
 
-# OS generated
-.DS_Store
+# OS Generated
+*DS_Store
